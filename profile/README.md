@@ -1,4 +1,4 @@
-# Course Match
+# CourseMatch
 
 Course: ELEC-E5550 **Statistical Natural Language Processing D**
 
