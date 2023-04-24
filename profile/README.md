@@ -17,5 +17,5 @@ Website:
 
 ## Demo
 
-![](profile/demo.mp4)
+![](profile/demo.gif)
 
