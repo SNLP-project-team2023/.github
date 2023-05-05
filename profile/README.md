@@ -2,7 +2,7 @@
 
 ![](profile/demo.gif)
 
-## Up and running → [course-match-ui.pages.dev](course-match-ui.pages.dev)
+# Up and running → [course-match-ui.pages.dev](course-match-ui.pages.dev)
 
 ## Info
 
