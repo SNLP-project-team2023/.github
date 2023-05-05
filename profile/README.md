@@ -2,7 +2,7 @@
 
 ![](profile/demo.gif)
 
-# Up and running → [course-match-ui.pages.dev](course-match-ui.pages.dev)
+# Up and running → [course-match-ui.pages.dev](https://course-match-ui.pages.dev)
 
 Course: ELEC-E5550 **Statistical Natural Language Processing D**
 
