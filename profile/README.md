@@ -1,5 +1,11 @@
 # CourseMatch
 
+![](profile/demo.gif)
+
+## Up and running → [course-match-ui.pages.dev](course-match-ui.pages.dev)
+
+## Info
+
 Course: ELEC-E5550 **Statistical Natural Language Processing D**
 
 <p align="center">
@@ -13,9 +19,3 @@ Course: ELEC-E5550 **Statistical Natural Language Processing D**
 Website:
 - [⬆️ Frontend](https://github.com/SNLP-project-team2023/course_match_ui): React
 - [⬇️ Backend](https://github.com/SNLP-project-team2023/course_match_api): API in Flask
-
-
-## Demo
-
-![](profile/demo.gif)
-
