@@ -4,8 +4,6 @@
 
 # Up and running → [course-match-ui.pages.dev](course-match-ui.pages.dev)
 
-## Info
-
 Course: ELEC-E5550 **Statistical Natural Language Processing D**
 
 <p align="center">
