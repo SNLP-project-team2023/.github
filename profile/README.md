@@ -1,6 +1,6 @@
 # CourseMatch
 
-![](profile/demo.gif)
+![](demo.gif)
 
 # Up and running → [course-match-ui.pages.dev](https://course-match-ui.pages.dev)
 
